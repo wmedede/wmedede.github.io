@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>This is Швыдка Мэдычна Допомога</title>
+    <link>http://wmedede.github.io/</link>
+    <description>Recent content on This is Швыдка Мэдычна Допомога</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 26 Mar 2019 08:47:11 +0100</lastBuildDate><atom:link href="http://wmedede.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>http://wmedede.github.io/posts/my-first-post/</link>
+      <pubDate>Tue, 26 Mar 2019 08:47:11 +0100</pubDate>
+      
+      <guid>http://wmedede.github.io/posts/my-first-post/</guid>
+      <description>Hello world </description>
+    </item>
+    
+  </channel>
+</rss>
